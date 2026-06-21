@@ -1,4 +1,4 @@
 # project1
 this is my first Git Repository
-<b>
+<br>
 Author - Gurkirat Kaur
